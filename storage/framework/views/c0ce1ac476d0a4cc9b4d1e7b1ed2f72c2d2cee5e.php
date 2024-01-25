@@ -1,0 +1,1 @@
+<?php echo e($result['commonContent']['settings']['share_this_script']); ?><?php /**PATH /home/supportmain/webapps/supportstock/resources/views/web/common/sharethis.blade.php ENDPATH**/ ?>
